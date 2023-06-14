@@ -21,3 +21,9 @@ senaryoyu çalıştırabiliriz.
 //tags ====> çalıştırmak istediğin grubu yaz
 public class Runner {
 }
+/*
+features ===> features'ların olduğu packega'ın yolunu ver(ContentRoot)
+        glue ====> stepDefinition'ların olduğu packega'ın yolunu ver(Source Root)
+        tags ====> çalıştırmak istediğin grubu yaz
+        dryRun = true  ===> Missing Strep Definitions(Eksik) tespiti için kullanılır. Testi çalıştırmaz.
+        */
